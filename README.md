@@ -25,12 +25,20 @@
 ...
 
 ## Моя роль в проекте
-Опишите, какие были ваши обязанности, ответственности и вклад в проект.
+
 
 ## Технологии, используемые в проекте
-- Технология 1 (например, React.js)
-- Технология 2 (например, Node.js)
-- ...
+
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="vertical-align:top; margin:4px">
+
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="vertical-align:top; margin:4px">
+
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align:top; margin:4px">
+
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="vertical-align:top; margin:4px">
+
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" style="vertical-align:top; margin:4px">
+
 
 ## Принципы и инструменты разработки
 - Код-стиль и форматирование: Prettier
