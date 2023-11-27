@@ -7,6 +7,7 @@
 ## Галерея
 
 ![Изображение 1](https://github.com/tyrypic/integration-headhunter/blob/main/screen1.png)
+![Изображение 1](https://github.com/tyrypic/integration-headhunter/blob/main/screen2.png)
 ...
 
 ## Моя роль в проекте
