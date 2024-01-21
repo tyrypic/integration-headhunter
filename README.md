@@ -60,12 +60,13 @@
 
 ## Галерея
 
-![Изображение 1](https://github.com/tyrypic/integration-headhunter/blob/main/screen1.png)
-![Изображение 2](https://github.com/tyrypic/integration-headhunter/blob/main/screen2.png)
-![Изображение 3](https://github.com/tyrypic/integration-headhunter/blob/main/screen3.png)
-![Изображение 4](https://github.com/tyrypic/integration-headhunter/blob/main/screen4.png)
-![Изображение 4](https://github.com/tyrypic/integration-headhunter/blob/main/screen5.png)
-![Изображение 4](https://github.com/tyrypic/integration-headhunter/blob/main/screen6.png)
+![Изображение 1](screen1.png)
+![Изображение 1](screen2.png)
+![Изображение 1](screen3.png)
+![Изображение 1](screen4.png)
+![Изображение 1](screen5.png)
+![Изображение 1](screen6.png)
+
 ...
 
 ## Моя роль в проекте
