@@ -4,7 +4,7 @@
 **Продакшен-решение для 600+ HR-команд**  
 [![Bitrix24 App](https://img.shields.io/badge/Bitrix24_Marketplace-4.9/5⭐-00A2FF?logo=bitrix&logoColor=white)](https://www.bitrix24.ru/apps/app/21ek.integratsiya_s_hh_ru/)
 
-##Архитектура системы
+## Архитектура системы
 ```mermaid
 graph TD;
     HHru[HH.ru API] -->|HTTP Webhooks| WebhookService[Webhook Service];
@@ -14,15 +14,15 @@ graph TD;
     InterfaceService -->|SQL| PostgreSQL;
     BitrixAPI -->|HTTP| Bitrix24[Bitrix24];
 ```
-- ###HH.ru API
+- ### HH.ru API
 Внешний сервис, который отправляет вебхуки с данными об откликах на вакансии.
-- ###Webhook Service
+- ### Webhook Service
 Микросервис, принимающий вебхуки от HH.ru, обрабатывающий данные отклика и отправляющий их в Bitrix24.
-- ###Interface Service
+- ### Interface Service
 Микросервис, предоставляющий интерфейс для приложения внутри Bitrix24, позволяющий загружать пользователей и получать данные о вакансиях.
-- ###Bitrix24 API
+- ### Bitrix24 API
 API для взаимодействия с Bitrix24, через которое создаются отклики и выполняются другие операции.
-- ###PostgreSQL
+- ### PostgreSQL
 База данных для хранения настроек, привязок вакансий к порталам Bitrix24 и другой информации.
 
 ## Описание проекта
