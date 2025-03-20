@@ -53,12 +53,23 @@ graph TD;
 Этот опыт стал для меня серьезным шагом вперед. Я научился управлять проектом целиком, решать сложные технические задачи и работать с реальными бизнес-потребностями. Результат моей работы — это не просто код, а система, которая реально облегчает жизнь пользователям.
 
 
-## Технологии, используемые в проекте
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" style="vertical-align:top; margin:4px">
+## 🛠️ Технологический стек
 
+**Языки & Фреймворки:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000000?logo=flaski&logoColor=white)
+
+
+**Базы данных:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+
+**Инфраструктура:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
+
+**Инструменты:**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Bitrix24](https://img.shields.io/badge/Bitrix24-00A2FF?logo=bitrix&logoColor=white)
 
 
