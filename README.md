@@ -1,8 +1,8 @@
 ```mermaid
 graph TD;
-    HHru[HH.ru API] -->|HTTP| WebhookService[HTTP Webhooks];
-    WebhookService -->|HTTP| BitrixAPI[Bitrix API];
+    HHru[HH.ru API] -->|HTTP Webhooks| WebhookService[Webhook Service];
     WebhookService -->|SQL| PostgreSQL[PostgreSQL];
+    WebhookService -->|HTTP| BitrixAPI[Bitrix24 API];
     InterfaceService[Interface Service] -->|HTTP| BitrixAPI;
     InterfaceService -->|SQL| PostgreSQL;
     BitrixAPI -->|HTTP| Bitrix24[Bitrix24];
