@@ -1,10 +1,11 @@
 ```mermaid
 graph TD;
-    HHru[HH.ru] -->|HTTP Webhooks| WebhookService[Webhook Service];
+    HHru[HH.ru API] -->|HTTP| WebhookService[HTTP Webhooks];
+    WebhookService -->|HTTP| BitrixAPI[Bitrix API];
     WebhookService -->|SQL| PostgreSQL[PostgreSQL];
-    WebhookService -->|HTTP| Bitrix24[Bitrix24];
-    Bitrix24 -->|HTTP| InterfaceService[Interface Service];
+    InterfaceService[Interface Service] -->|HTTP| BitrixAPI;
     InterfaceService -->|SQL| PostgreSQL;
+    BitrixAPI -->|HTTP| Bitrix24[Bitrix24];
 ```
 
 # 🔄 Интеграция HH.ru → Bitrix24: Автоматизация рекрутинга
