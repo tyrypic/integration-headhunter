@@ -73,3 +73,6 @@ graph TD;
 ![Bitrix24](https://img.shields.io/badge/Bitrix24-00A2FF?logo=bitrix&logoColor=white)
 
 
+## Ссылки
+![Приложение](https://www.bitrix24.ru/apps/app/21ek.integratsiya_s_hh_ru/)
+![Документация/скрины/примеры](https://docs.headtrix.21vek.it/)
