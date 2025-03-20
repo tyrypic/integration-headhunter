@@ -1,5 +1,5 @@
 # 🔄 Интеграция HH.ru → Bitrix24: Автоматизация рекрутинга
-**Продакшен-решение для 50+ HR-команд**  
+**Продакшен-решение для 600+ HR-команд**  
 [![Bitrix24 App](https://img.shields.io/badge/Bitrix24_Marketplace-4.9/5⭐-00A2FF?logo=bitrix&logoColor=white)](https://www.bitrix24.ru/apps/app/21ek.integratsiya_s_hh_ru/)
 # Интеграция HH.ru + Bitrix24
 
