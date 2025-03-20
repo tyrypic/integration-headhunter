@@ -57,7 +57,7 @@ graph TD;
 
 **Языки & Фреймворки:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000?logo=flaski&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000?logo=flask&logoColor=white)
 
 
 **Базы данных:**  
